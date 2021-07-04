@@ -24,3 +24,11 @@ k describe
 k apply
 
 
+k get rs
+
+k delete rs
+
+k scale replica=# rs ####
+
+
+
