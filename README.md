@@ -32,3 +32,12 @@ k scale replica=# rs ####
 
 
 
+https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands#label/
+
+
+https://kubernetes.io/docs/concepts/overview/working-with-objects/namespaces/
+
+
+
+
+
